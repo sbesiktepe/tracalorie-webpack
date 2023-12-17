@@ -1,18 +1,17 @@
 # Freelancer Portfolio Website
 
-A professional portfolio website to showcase the skills, projects, and services of a freelancer.
+A simple web application to track calorie intake. The app allows users to log their daily meals and calorie consumption, storing the data in the browser's local storage.
 
 ## Features
 
-- Responsive design for a seamless experience across devices.
-- Sections for showcasing skills, projects, and contact information.
-- Clean and modern UI to leave a lasting impression on visitors.
-- Easily customizable for personal branding.
-
+- Log daily meals with corresponding calorie counts.
+- View a summary of daily calorie intake.
+- Data persists across sessions, stored in the browser's local storage.
+  
 ## Technologies Used
 
 - HTML5
-- CSS3 (Flexbox,grid, OwnCarousel,absolute-relative)
-- JavaScript
+- CSS3 
+- Vanilla JavaScript (OOP, transactions with LocalStorage to persist data)
 
-Visit this freelancer portfolio website [here](https://sezai-freelancer.netlify.app) to explore my work and skills.
+Visit this Track-Calorie app [here](https://sezai-tracalorie.netlify.app/) to explore my work and skills.
