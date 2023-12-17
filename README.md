@@ -1,4 +1,4 @@
-# Freelancer Portfolio Website
+# TrackCalorie App
 
 A simple web application to track calorie intake. The app allows users to log their daily meals and calorie consumption, storing the data in the browser's local storage.
 
